@@ -4,7 +4,7 @@
 
 ![open to work](https://img.shields.io/badge/open%20to%20new%20grad%20roles-2027-brightgreen?style=flat-square)
 
-i build things at the intersection of ai, full-stack, and embedded systems. currently: software dev co-op @ trend micro canada · always down to chat about llm-powered apps, computer vision, and side projects that actually ship.
+i build things at the intersection of ai, full-stack, and embedded systems. currently: software dev co-op @ trend ai · always down to chat about llm-powered apps, computer vision, and side projects that actually ship.
 
 ---
 
